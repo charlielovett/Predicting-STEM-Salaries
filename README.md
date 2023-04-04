@@ -1,4 +1,4 @@
-# Spring 2023 STAT 303-3 Final Project
+# Data Science 303-3 Final Project
 
 Team Name: LCJJ
 
