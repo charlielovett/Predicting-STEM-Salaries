@@ -4,4 +4,4 @@ In this project, we developed a model to predict salaries for employees in STEM 
 * The final report for this project can be found [here](https://jtroxel7.github.io/Predicting-STEM-Salaries/LCJJ_Project_Report.html).
 * The code used to develop/test/ensemble our models can be found [here](https://jtroxel7.github.io/Predicting-STEM-Salaries/LCJJ_Project_Code.html).
 
-*Authors: Jack Troxel, Jacob Muriel, Lainey Neild, Charlie Lovett*
+*Authors: Charlie Lovett, jacob Muriel, Lainey Neild, Jack Troxel*
